@@ -4,6 +4,8 @@ This project is developed by the University of Witwatersrand Data Science team f
 
 NOTE THAT WE HAVE ZIPED AND COMPRESSED FILES DUE TO THE UPLOAD LIMITS
 
+[Download the demo video](https://github.com/ajojotank/DIRISA-Qualifiers-2024/blob/main/Presnetations/Final_Presentation.mp4)
+
 ## Project Structure
 
 The repository is structured(when everything is unziped) as follows:
