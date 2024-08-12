@@ -1,0 +1,1778 @@
+uqnr - Unique Household Identifier
+personnr - Person number
+psu - Primary sampling unit
+prov - Province
+b_nights - Stayed Nights
+gender - Gender
+age - Age
+age_grp - Age group
+race - Population group
+q11relsh - Relationship to the head
+q12amarst - Marital status
+q12bspou - Spouse/partner
+q12cpsnn - Spouse number
+q13afath - Father alive
+q13bfpar - Father part of the household
+q13cfpsn - Father person number
+q14amoth - Mother still alive
+q14bmpar - Mother part of household
+q14cmpsn - Mother person number
+q15fcare - Foster care
+q16hiedu - Highest education level
+q17atecd - Currently attending ECD facility
+q18aecd - Exposure to ECD
+q18becd1 - Location of ECD programme: At home
+q18becd2 - Location of ECD programme:At ECD centre
+q18becd3 - Location of ECD programme: Other
+q19wrtn - Writing name
+q19read - Reading
+q19form - Filling in a form
+q19wrtl - Writing a letter
+q19cal - Calculating
+q19rdsn - Reading road signs
+q110atte - Currently attending educational institution
+q111rsnn - Reason for non-attendance
+q112edui - Educational institution
+q113ppriv - Public or private institution
+q114dlrn - Distance learning classes
+q115amod - Means of transport
+q115btim - Time taken to school
+q115cnr - Nearest institution
+q115dnni - Reason not attending the nearest institution
+q116feet - Total amount of tuition fees paid
+q117rnfe - Reason no fees payment
+q118burs - Fee reductions or bursaries
+q119book - Problems at educational institution: Lack of books
+q119poor - Poor quality of teaching
+q119lack - Lack of teachers
+q119badc - Facilities in bad condition
+q119fees - Fees too high
+q119clas - Classes too large/too many learners
+q119tabs - Teachers are often absent from school
+q119pman - Teachers were involved in a strike
+q119othr - Other
+q120grde - Current grade
+q121same - Repeat Grade
+q122afood - School feeding scheme
+q122befood - Provision of food
+q123aviol - Violence, corporal punishment or verbal abuse
+q123bviol1 - Nature of violence: Corporal punishment by teacher
+q123bviol2 - Physical violence by teacher
+q123bviol3 - Verbal abuse by teacher
+q123bviol4 - Verbal abuse by learners
+q123bviol5 - Physical abuse
+q123bviol6 - Other
+q124aabs - Absent from school
+q124bday - Number of days absent
+q124crsn - Main reason absent
+q125medi - Medical aid scheme
+q126ainju - Suffer illness/injuries
+q126bflu - Nature of illness/injury: Flu or acute respiratory tract infection
+q126bdia - Diarrhoea
+q126btbc - TB or severe cough with blood
+q126bsub - Abuse of alcohol or drugs
+q126bdep - Depression or mental illness
+q126bdbt - Diabetes
+q126bblo - High blood pressure
+q126bsex - Sexually transmitted disease
+q126bcan - Cancer
+q126bmvh - Motor vehicle accident injuries
+q126bgun - Gunshot wounds
+q126bstr - Severe trauma due to violence, assault, beatings
+q126bmtr - Minor trauma
+q126both - Other illness or injury
+q126bdnk - Do not know
+q127acon - Consult a health worker
+q127bynt - Why not consult
+q128aasm - Asthma
+q128adiab - Diabetes
+q128acan - Cancer
+q128ahiv - HIV and AIDS
+q128ahbp - Hypertension/high blood pressure
+q128arth - Arthritis
+q128aoth - Other
+q128basm - Medication for chronic illnesses: Asthma
+q128bdiab - Diabetes
+q128bcan - Cancer
+q128bhiv - HIV and AIDS
+q128bhbp - Hypertension/high blood pressure
+q128brth - Arthritis
+q128both - Other
+q129apre - Pregnancy
+q129bsta - Current status of pregnancy
+q130see - Difficulties of seeing
+q130hea - Difficulties of Hearing
+q130wal - Difficulties of Walking
+q130rem - Difficulties of Remembering
+q130sel - Difficulties of Self-care
+q130com - Difficulties of Communication
+q131eye - Use of: Eye glasses/spectacles/contact lenses
+q131haid - Use of: Hearing aid
+q131wst - Use of: Walking stick/walking frame
+q131wch - Use of: Wheelchair
+q131cmed - Use of: Chronic medication
+q131oth - Use of: Other assistive devices
+q132asg - Social Grants
+q132boag - Type of grant: Old age pension
+q132bdis - Disability grant
+q132bcsg - Child support grant
+q132bcar - Care dependency grant
+q132bfos - Foster care grant
+q132bwvt - War veterans grant
+q132bgrn - Grant-in-aid
+q132bsoc - Social relief
+q133disg - Disability grant
+q134csgw - Child support grant
+q135ccg - Visits by the community care givers
+q135dmvl - Services for victims of domestic violence
+q135drug - Social work services for drug abuse
+q135cps - Child protection services
+q135cs - Correctional services
+q136resp - Respondent
+q21awge - Working for a wage, commission or salary
+q21bbus - Business Activities
+q21cvol - Work without remuneration
+q21dret - Return to work or business
+q22asto - Total salary/pay
+q22bsp - Salary period
+q23salc - Income categories
+q24atm - Means of transport
+q24bmin - Time taken to place of employment
+q25sec - Sector of organisation/business or branch
+q26alook - Looking for any kind of job or trying business
+q26bstart - Liked to work
+q26crnsw - Reason for not trying to find work or starting a business
+q26daccjob - Start work or a business
+q27amotbus - Attempted to start any kind of business
+q27bmotvt - Motivation to start a business
+undisab - UN Disability
+disab - Disability
+sevdisab - Severe disability
+literacy3b - Literacy
+q22msal - Monthly salary
+stratum - Stratum
+geotype - Geography Type
+metro - Metro
+weight - Person Weight
+
+
+
+
+
+
+UqNr - Unique number
+PersonNR - Person number
+PSU - Primary sampling unit
+Prov - Province
+B_Nights - Stayed Nights
+Gender - Gender
+Age - Age
+Age_grp - Age group
+Race - Population group
+Q11RELSH - Relationship to the head
+Q12aMARST - Marital status
+Q12BSPOU - Spouse/partner
+Q12CPSNN - Spouse number
+Q13aFATH - Father alive
+Q13bFPAR - Father part of the household
+Q13CFPSN - Father person number
+Q14aMOTH - Mother still alive
+Q14bMPAR - Mother part of household
+Q14CMPSN - Mother person number
+Q15FCARE - Foster care
+Q16HIEDU - Highest education level
+Q17ATECHILD - Type of ECD facility
+Q17BDA - Place where children spent most of their time during the day
+Q18ECD - Exposure to ECD
+Q19WRTN - Writing name
+Q19READ - Reading
+Q19FORM - Filling in a form
+Q19WRTL - Writing a letter
+Q19CAL - Calculating
+Q19RDSN - Reading road signs
+Q110ATTE - Currently attending educational institution
+Q111RSNN - Reason for non-attendance
+Q112EDUI - Educational institution
+Q113PPRIV - Public or private institution
+Q114DLRN - Distance learning classes
+Q115aMOD - Means of transport
+Q115bTIM - Time taken to school
+Q115cNR - Nearest institution
+Q115dNNI - Reason not attending the nearest institution
+Q116FEET - Total amount of tuition fees paid
+Q117RNFE - Reason no fees payment
+Q118BURS - Fee reductions or bursaries
+Q119AWORKBOOKS - Access to workbooks
+Q119BTEXTBOOKS - Access to textbooks
+Q119cBOOK - Lack of books
+Q119cPOOR - Poor quality of teaching
+Q119cLACK - Lack of teachers
+Q119cBADC - Facilities in bad condition
+Q119cFEES - Fees too high
+Q119cCLAS - Classes too large/too many learners
+Q119cTABS - Teachers are often absent from school
+Q119cPMAN - Teachers were involved in a strike
+Q119cOTHR - Other
+Q120GRDE - Current grade
+Q121SAME - Repeat Grade
+Q122aFOOD - School feeding scheme
+Q122bEFOOD - Provision of food
+Q123aVIOL - Violence, corporal punishment or verbal abuse
+Q123bVIOL1 - Corporal punishment by teacher
+Q123bVIOL2 - Physical violence by teacher
+Q123bVIOL3 - Verbal abuse by teacher
+Q123bVIOL4 - Verbal abuse by learners
+Q123bVIOL5 - Physical abuse
+Q123bVIOL6 - Other
+Q124aABS - Absent from school
+Q124bDAY - Number of days absent
+Q124cRSN - Main reason absent
+Q21MEDI - Medical aid scheme
+Q22GENHEALTH - Health status
+Q23aIllness - Suffer illness
+Q23bFLU - Flu or acute respiratory tract infection
+Q23bDIA - Diarrhoea
+Q23bTBC - TB or severe cough with blood
+Q23bSUB - Abuse of alcohol or drugs
+Q23bDEP - Depression or mental illness
+Q23bDBT - Diabetes
+Q23bBLO - High blood pressure
+Q23bSEX - Sexually transmitted disease
+Q23BCAN - Cancer
+Q23bPNEU - Pneumonia
+Q23bBRON - Bronchitis
+Q23bEPIL - Epilepsy
+Q23bMEN - Meningitis and Sinusitis
+Q23bCHOLE - High cholesterol
+Q23bOSTER - Osteoporosis
+Q23bOTH - Other illness
+Q23bDNK - Do not know
+Q24aCON - Consult a health worker as a result of illness
+Q24bYNT - Reason for not consulting a health worker
+Q25aInjuries - Consult a health worker as a result of injury
+Q25BINJ - Nature of injury
+Q26aASM - Asthma
+Q26aDBT - Diabetes
+Q26aCAN - Cancer
+Q26aHIV - HIV and AIDS
+Q26aHBP - Hypertension/high blood pressure
+Q26aRTH - Arthritis
+Q26aSTRK - Stroke
+Q26aHEART - Hear attack / Myocardial infarction
+Q26aTB - Tuberculosis
+Q26aOTH - Other
+Q26bASM - Asthma
+Q26bDBT - Diabetes
+Q26bCAN - Cancer
+Q26bHIV - HIV and AIDS
+Q26bHBP - Hypertension/high blood pressure
+Q26bRTH - Arthritis
+Q26bSTRK - Stroke
+Q26bHEART - Hear attack / Myocardial infarction
+Q26bTB - Tuberculosis
+Q26bOTH - Other
+Q27aPRE - Pregnancy
+Q27bSTA - Current status of pregnancy
+Q28SEE - Seeing
+Q28HEA - Hearing
+Q28WAL - Walking
+Q28REM - Remembering
+Q28SEL - Self-care
+Q28COM - Communication
+Q29EYE - Eye glasses/spectacles/contact lenses
+Q29HAID - Hearing aid
+Q29WST - Walking stick/walking frame
+Q29WCH - Wheelchair
+Q29CMED - Chronic medication
+Q29OTH - Other assistive devices
+Q31asg - Social Grants
+Q31bOAG - Old age pension
+Q31bDIS - Disability grant
+Q31bCSG - Child support grant
+Q31bCAR - Care dependency grant
+Q31bFOS - Foster care grant
+Q31bWVT - War veterans grant
+Q31bGRN - Grant-in-aid
+Q31bSOC - Social relief
+Q32DISG - Disability grant
+Q33CSGW - Child support grant
+Q34CCG - Visits by the community care givers
+Q34DMVL - Services for victims of domestic violence
+Q34DRUG - Social work services for drug abuse
+Q34CPS - Child protection services
+Q34CS - Correctional services
+Q41aWGE - Working for a wage, commission or salary
+Q41bBUS - Business Activities
+Q41cVOL - Work without remuneration
+Q41dRET - Return to work or business
+Q42aSTO - Total salary/pay
+Q42bSP - Salary period
+Q43SALC - Income categories
+Q44aTM - Means of transport
+Q44bMIN - Time taken to place of employment
+Q45SEC - Sector of organisation/business or branch
+Q46aLOOK - Looking for any kind of job or trying business
+Q46bSTART - Liked to work
+Q46cRNSW - Reason for not trying to find work or starting a business
+Q46dAccJob - Start work or a business
+Q47JCR - Participated in Government or municipal job creation programme
+Q48CELL - Own a mobile telephone
+Q49RELIGIOUS - Religious affiliation
+Q410ATEREL - Attend religious services
+Q411RESP - Respondent
+undisab - UN Disability
+disab - Disability
+Sevdisab - Severe disability
+Literacy3b - Literacy
+Stratum - Stratum
+geotype - Geography Type
+Metro - Metro
+Rotation - Rotation
+person_wgt - Weight
+
+
+
+
+
+
+
+uqnr - Unique Household Identifier
+personnr - Person (respondent) number within Household
+psu - Primary sampling unit
+prov - Province
+B_NIGHTS - Stayed Nights
+gender - Gender
+Age - Age
+age_grp - Age group
+race - Population group
+q11RELSH - Relationship to the head
+q12aMARST - Marital status
+Q12bSPOU - Spouse/partner
+Q12CPSNN - Spouse number
+Q13aFATH - Father alive
+Q13bFalive - Father alive 5 years ago
+Q13cFPAR - Father part of the household
+Q13dFPSN - Father person number
+Q14aMOTH - Mother still alive
+Q14bMalive - Mother alive 5 years ago
+Q14cMPAR - Mother part of household
+Q14dMPSN - Mother person number
+Q15HIEDU - Highest education level
+Q16ATECHILD - Type of ECD facility children attend
+Q17DA - Place where children spent most of their time during the day
+Q18ECD - Exposure to ECD
+Q19WRTN - Writing name
+Q19READ - Reading
+Q19FORM - Filling in a form
+Q19WRTL - Writing a letter
+Q19CAL - Calculating
+Q19RDSN - Reading road signs
+Q110ATTE - Currently attending educational institution
+Q111RSNN - Reason for non-attendance
+Q112EDUI - Educational institution
+Q113PPRIV - Public or private institution
+Q114DLRN - Distance learning classes
+Q115aMOD - Means of transport
+Q115bTIM - Time taken to school
+Q115cNR - Nearest institution
+Q115dNNI - Reason not attending the nearest institution
+Q116FEET - Total amount of tuition fees paid
+Q117RNFE - Reason no fees payment
+Q118BURS - Fee reductions or bursaries
+Q119ALanguage - Access to language workbooks
+Q119Amathematics - Access to Mathematics workbooks
+Q119BTEXTBOOKS - Access to textbooks
+Q119cBOOK - Lack of books
+Q119cPOOR - Poor quality of teaching
+Q119cLACK - Lack of teachers
+Q119cBADC - Facilities in bad condition
+Q119cFEES - Fees too high
+Q119cCLAS - Classes too large/too many learners
+Q119cTABS - Teachers are often absent from school
+Q119cPMAN - Teachers were involved in a strike
+Q119cOTHR - Other Problems
+Q120GRDE - Current grade
+Q121SAME - Repeat Grade
+Q122aFOOD - School feeding scheme
+Q122bEFOOD - Provision of food
+Q123aVIOL - Violence corporal punishment or verbal abuse
+Q123bVIOL1 - Corporal punishment by teacher
+Q123bVIOL2 - Physical violence by teacher
+Q123bVIOL3 - Verbal abuse by teacher
+Q123bVIOL4 - Verbal abuse by learners
+Q123bVIOL5 - Physical abuse
+Q123bVIOL6 - Other violence
+Q124aABS - Absent from school
+Q124bDAY - Number of days absent
+Q124cRSN - Main reason absent
+Q21MEDI - Medical aid scheme
+Q22GENHEALTH - Health status
+Q23FLU - Flu or acute respiratory tract infection
+Q23DIA - Diarrhea
+Q23SCblood - TB or severe cough with blood
+Q23SUB - Abuse of alcohol or drugs
+Q23DEP - Depression or mental illness
+Q23SEX - Sexually transmitted disease
+Q23PNEU - Pneumonia
+Q23BRON - Bronchitis
+Q23EPIL - Epilepsy
+Q24aCON - Consult a health worker
+Q24bYNT - Why not consult
+Q25aMVHoccupant - Motor vehicle injury â€“ occupant
+Q25aMVHpedestrian - Motor vehicle injury â€“ pedestrian
+Q25aBCL - Bicycle related
+Q25aGUN - Gun shot wounds
+Q25aSTR - Severe trauma due to violence, assault, beating
+Q25aCrime - Crime- related injury
+Q25aFIRE - Fire or burn
+Q25aACCP - Accidental poisoning
+Q25aINTP - Intentional poisoning
+Q25aSPORTS - Sports related
+Q25aOTH - Other injury (specify in the box
+Q25bmiss - days missed at school
+Q26aASM - Asthma-Chronic illnesses
+Q26aDBT - Diabetes-Chronic illnesses
+Q26aCAN - Cancer-Chronic illnesses
+Q26aHIV - HIV and AIDS-Chronic illnesses
+Q26aHBP - Hypertension/high blood pressure-Chronic illnesses
+Q26aRTH - Arthritisâ€“ illnesses
+Q26aSTRK - Strokeâ€“ illnesses
+Q26aHEART - Heart attack/Myocardial infarctionâ€“illnesses
+Q26aTB - Tuberculosisâ€“ illnesses
+Q26aMental - Mental Illness
+Q26aEPIL - Epilepsyâ€“ illnesses
+Q26aMEN - Meningitis and Sinusitisâ€“ illnesses
+Q26aPNEU - Pneumoniaâ€“ illnesses
+Q26aBRON - Bronchitisâ€“ illnesses
+Q26aCHOLE - High Cholesterolâ€“ illnesses
+Q26aOSTER - Osteoporosisâ€“ illnesses
+Q26aOTH - Otherâ€“ Illness
+Q26bASM - Asthma-Medication for chronic
+Q26bDBT - Diabetes-Medication for chronic
+Q26bCAN - Cancer-Medication for chronic
+Q26bHIV - HIV and AIDS-Medication for chronic
+Q26bHBP - Hypertension/high blood pressure-Medication for chronic
+Q26bRTH - Arthritis-Medication for chronic
+Q26bSTRK - Stroke-Medication for chronic
+Q26bHEART - Heart attack/Myocardial infarction-Medication for chronic
+Q26bTB - Tuberculosis-Medication for chronic
+Q26bMental - Mental illness-Medication for chronic
+Q26bEPIL - Epilepsy-Medication for chronic
+Q26bMEN - Meningitis and Sinusitis-Medication for chronic
+Q26bPNEU - Pneumonia-Medication for chronic
+Q26bBRON - Bronchitis-Medication for chronic
+Q26bCHOLE - High colesterol-Medication for chronic
+Q26bOSTER - Osteoporosis-Medication for chronic
+Q26bOTH - Other-Medication for chronic
+Q27aPRE - Pregnancy
+Q27bSTA - Current status of pregnancy
+Q28SEE - Seeing
+Q28HEA - Hearing
+Q28WAL - Walking
+Q28REM - Remembering
+Q28SEL - Self-care
+Q28COM - Communication
+Q29EYE - Eye glasses/spectacles/contact lenses
+Q29HAID - Hearing aid
+Q29WST - Walking stick/walking frame
+Q29WCH - Wheelchair
+Q29CMED - Chronic medication
+Q29OTH - Other assistive devices
+Q31aSG - Social Grants
+Q31bOAG - Old age pension
+Q31bDIS - Disability grant
+Q31bCSG - Child support grant
+Q31bCAR - Care dependency grant
+Q31bFOS - Foster care grant
+Q31bWVT - War veterans grant
+Q31bGRN - Grant in aid
+Q31bSOC - Social relief
+Q32DISG - Disability grant-permanent or temporary
+Q41aWGE - Working for a wage, commission or salary
+Q41bBUS - Business Activities
+Q41cVOL - Work without remuneration
+Q41dRET - Return to work or business
+Q42aSTO - Total salary/pay
+Q42bSP - Salary period
+Q43SALC - Income categories
+Q44aTM - Means of transport
+Q44bMIN - Time taken to place of employment
+Q45SEC - Sector of organisation/business or branch
+Q46aLOOK - Looking for any kind of job or trying business
+Q46bSTART - Liked to work
+Q46cRNSW - Reason for not trying to find work or starting a business
+Q46dAccJOB - Start work or a business
+Q47JCR - Participated in Government or municipal job creation programme
+Q48CELL - Own a mobile telephone
+Q49RELIGIOUS - Religious affiliation
+Q410ATEREL - Attend religious services
+Q411RESP - Respondent
+undisab - UN Disability
+disab - Disability
+sevdisab - Severe disability
+literacy3b - Literacy
+geotype - Geography Type
+q42msal - Monthly Salary
+Metro - Metro
+employ_Status1 - Employment Status 1
+employ_Status2 - Employment Status 2
+stratum - Stratum
+rotation - Rotation
+person_wgt - Weight
+
+
+
+
+
+
+
+
+
+uqnr - Unique Household Identifier
+personnr - Person (respondent) number within Household
+psu - Primary sampling unit
+prov - Province
+B_NIGHTS - Stayed Nights
+gender - Gender
+Age - Age
+age_grp1 - Age group
+race - Population group
+q11RELSH - Relationship to the head
+q12aMARST - Marital status
+Q12bSPOU - Spouse/partner
+Q12CPSNN - Spouse number
+Q13aFATH - Father alive
+Q13bFalive - Father alive 5 years ago
+Q13cFPAR - Father part of the household
+Q13dFPSN - Father person number
+Q14aMOTH - Mother still alive
+Q14bMalive - Mother alive 5 years ago
+Q14cMPAR - Mother part of household
+Q14dMPSN - Mother person number
+Q15HIEDU - Highest education level
+Q16ATECHILD - Type of ECD facility children attend
+Q17DA - Place where children spent most of their time during the day
+Q18ECD - Exposure to ECD
+Q19WRTN - Writing name
+Q19READ - Reading
+Q19FORM - Filling in a form
+Q19WRTL - Writing a letter
+Q19CAL - Calculating
+Q19RDSN - Reading road signs
+Q110ATTE - Currently attending educational institution
+Q111RSNN - Reason for non-attendance
+Q112EDUI - Educational institution
+Q113PPRIV - Public or private institution
+Q114DLRN - Distance learning classes
+Q115aMOD - Means of transport
+Q115bTIM - Time taken to school
+Q115cNR - Nearest institution
+Q115dNNI - Reason not attending the nearest institution
+Q116FEET - Total amount of tuition fees paid
+Q117RNFE - Reason no fees payment
+Q118BURS - Fee reductions or bursaries
+Q119ALanguage - Access to language workbooks
+Q119Amathematics - Access to Mathematics workbooks
+Q119BTEXTBOOKS - Access to textbooks
+Q119cBOOK - Lack of books
+Q119cPOOR - Poor quality of teaching
+Q119cLACK - Lack of teachers
+Q119cBADC - Facilities in bad condition
+Q119cFEES - Fees too high
+Q119cCLAS - Classes too large/too many learners
+Q119cTABS - Teachers are often absent from school
+Q119cPMAN - Teachers were involved in a strike
+Q119cOTHR - Other Problems
+Q120GRDE - Current grade
+Q121SAME - Repeat Grade
+Q122aFOOD - School feeding scheme
+Q122bEFOOD - Provision of food
+Q123aVIOL - Violence corporal punishment or verbal abuse
+Q123bVIOL1 - Corporal punishment by teacher
+Q123bVIOL2 - Physical violence by teacher
+Q123bVIOL3 - Verbal abuse by teacher
+Q123bVIOL4 - Verbal abuse by learners
+Q123bVIOL5 - Physical abuse
+Q123bVIOL6 - Other violence
+Q124aABS - Absent from school
+Q124bDAY - Number of days absent
+Q124cRSN - Main reason absent
+Q21MEDI - Medical aid scheme
+Q22GENHEALTH - Health status
+Q23FLU - Flu or acute respiratory tract infection
+Q23DIA - Diarrhea
+Q23SCblood - TB or severe cough with blood
+Q23SUB - Abuse of alcohol or drugs
+Q23DEP - Depression or mental illness
+Q23SEX - Sexually transmitted disease
+Q23PNEU - Pneumonia
+Q23BRON - Bronchitis
+Q23EPIL - Epilepsy
+Q24aCON - Consult a health worker
+Q24bYNT - Why not consult
+Q25aMVHoccupant - Motor vehicle injury – occupant
+Q25aMVHpedestrian - Motor vehicle injury – pedestrian
+Q25aBCL - Bicycle related
+Q25aGUN - Gun shot wounds
+Q25aSTR - Severe trauma due to violence, assault, beating
+Q25aCrime - Crime- related injury
+Q25aFIRE - Fire or burn
+Q25aACCP - Accidental poisoning
+Q25aINTP - Intentional poisoning
+Q25aSPORTS - Sports related
+Q25aOTH - Other injury
+Q25bmiss - days missed at school
+Q26aASM - Asthma-Chronic illnesses
+Q26aDBT - Diabetes-Chronic illnesses
+Q26aCAN - Cancer-Chronic illnesses
+Q26aHIV - HIV and AIDS-Chronic illnesses
+Q26aHBP - Hypertension/high blood pressure-Chronic illnesses
+Q26aRTH - Arthritis– illnesses
+Q26aSTRK - Stroke– illnesses
+Q26aHEART - Heart attack/Myocardial infarction–illnesses
+Q26aTB - Tuberculosis– illnesses
+Q26aMental - Mental Illness
+Q26aEPIL - Epilepsy– illnesses
+Q26aMEN - Meningitis and Sinusitis– illnesses
+Q26aPNEU - Pneumonia– illnesses
+Q26aBRON - Bronchitis– illnesses
+Q26aCHOLE - High Cholesterol– illnesses
+Q26aOSTER - Osteoporosis– illnesses
+Q26aOTH - Other– Illness
+Q26bASM - Asthma-Medication for chronic
+Q26bDBT - Diabetes-Medication for chronic
+Q26bCAN - Cancer-Medication for chronic
+Q26bHIV - HIV and AIDS-Medication for chronic
+Q26bHBP - Hypertension/high blood pressure-Medication for chronic
+Q26bRTH - Arthritis-Medication for chronic
+Q26bSTRK - Stroke-Medication for chronic
+Q26bHEART - Heart attack/Myocardial infarction-Medication for chronic
+Q26bTB - Tuberculosis-Medication for chronic
+Q26bMental - Mental illness-Medication for chronic
+Q26bEPIL - Epilepsy-Medication for chronic
+Q26bMEN - Meningitis and Sinusitis-Medication for chronic
+Q26bPNEU - Pneumonia-Medication for chronic
+Q26bBRON - Bronchitis-Medication for chronic
+Q26bCHOLE - High colesterol-Medication for chronic
+Q26bOSTER - Osteoporosis-Medication for chronic
+Q26bOTH - Other-Medication for chronic
+Q27aPRE - Pregnancy
+Q27bSTA - Current status of pregnancy
+Q28SEE - Seeing
+Q28HEA - Hearing
+Q28WAL - Walking
+Q28REM - Remembering
+Q28SEL - Self-care
+Q28COM - Communication
+Q29EYE - Eye glasses/spectacles/contact lenses
+Q29HAID - Hearing aid
+Q29WST - Walking stick/walking frame
+Q29WCH - Wheelchair
+Q29CMED - Chronic medication
+Q29OTH - Other assistive devices
+Q31aSG - Social Grants
+Q31bOAG - Old age pension
+Q31bDIS - Disability grant
+Q31bCSG - Child support grant
+Q31bCAR - Care dependency grant
+Q31bFOS - Foster child grant
+Q31bWVT - War veterans grant
+Q31bGRN - Grant in aid
+Q31bSOC - Social relief
+Q32DISG - Disability grant-permanent or temporary
+Q33cell - Own a mobile telephone
+Q34RELIGIOUS - Religious affiliation
+Q35ATEREL - Attend religious services
+Q41awge - Working for a wage, commission or salary
+Q41bbus - Business Activities
+Q41cVOL - Work without remuneration
+Q41dret - Return to work or business
+Q42asto - Total salary/pay
+Q42bsp - Salary period
+Q43salc - Income categories
+Q44atm - Means of transport
+Q44bmin - Time taken to place of employment
+Q45sec - Sector of organisation/business or branch
+Q46alook - Looking for any kind of job or trying business
+Q46bstart - Liked to work
+Q46crnsw - Reason for not trying to find work or starting a business
+Q46dAccJob - Start work or a business
+Q47jcr - Participated in Government or municipal job creation programme
+undisab - UN Disability
+disab - Disability
+Sevdisab - Severe disability
+Literacy3b - Literacy
+Stratum - Stratum
+GeoType - Geography Type
+q42msal - Monthly Salary
+Metro_code - Metro Code
+Metro - Metro
+employ_Status1 - Employment Status 1
+employ_Status2 - Employment Status 2
+rotation - Rotation
+person_wgt - Weight
+
+
+
+
+
+
+
+UqNr - Unique Household Identifier
+PersonNR - Person (respondent) number within Household
+PSU - Primary sampling unit
+Prov - Province
+B_Nights - Stayed Nights
+Gender - Gender
+Age - Age
+Age_grp1 - Age group
+Race - Population group
+F_Linsidehh - Language_In
+F_Loutsidehh - Language_out
+Q11RELSH - Relationship to the head
+Q12aMARST - Marital status
+Q12BSPOU - Spouse/partner
+Q12CPSNN - Spouse number
+Q13aFATH - Father alive
+Q13bFalive - Father alive 5 years ago
+Q13cFPAR - Father part of the household
+Q13dFPSN - Father person number
+Q14aMOTH - Mother still alive
+Q14bMalive - Mother alive 5 years ago
+Q14cMPAR - Mother part of household
+Q14dMPSN - Mother person number
+Q15HIEDU - Highest education level
+Q16ATECHILD - Type of ECD facility children attend
+Q16BNOTATTE - Place where children spent most of their time during the day
+Q16CMAINREASN - Main reason for not attending the ECD facility
+Q16DFEES - Amount paid to attend the ECD facility
+Q16E1PICTURE - Pictures on the walls
+Q16E2TAP - Tap water
+Q16E3ELECTR - Electricity
+Q16E4FLUSHTOILET - Flush toilet
+Q16E5PITLAT - Ventilated Pit Latrines
+Q16E6TOYS - Educational toys
+Q16E7FENCE - Fence
+Q16E8PLAYAREA - Play area
+Q16E9EQUIPMENT - Play equipment
+Q16E10GADERN - Vegetable garden
+Q17ATAKCARE - Number of the main person who take care of the child
+Q17BRELATIONSHP - Relationship of the main person who take care of the child
+Q18AIMITATE - Imitate daily activities
+Q18BOBJECT - Ask/explain what the object is used for
+Q18CREAD - Read/tell stories
+Q18DSING - Sing
+Q18ETALK - Talk
+Q18FDISTRACT - Distract
+Q18F2TALK - Talk
+Q18F3SHOUT - Shout
+Q18F4PUNISH - Punish
+Q18F5ISOLATE - Isolate the child
+Q18F6NOTHING - Do nothing
+Q18GBREASTFED - Breastfed
+Q18HOTHERFOOD - Eating other food
+Q18IMILK - Receive milk at school
+Q18JEATFOOD - Eat food
+Q18KREG - Regular food
+Q18LPREPARED - Regular
+Q19WRTN - Writing name
+Q19READ - Reading
+Q19FORM - Filling in a form
+Q19WRTL - Writing a letter
+Q19CAL - Calculating
+Q19RDSN - Reading road signs
+Q110ATTE - Currently attending educational institution
+Q111RSNN - Reason for non-attendance
+Q112EDUI - Educational institution
+Q113PPRIV - Public or private institution
+Q114DLRN - Distance learning classes
+Q115aMOD - Means of transport
+Q115bTIM - Time taken to travel to school
+Q115cNR - Nearest institution
+Q115dNNI - Reason for not attending the nearest institution
+Q116FEET - Total amount of tuition fees paid
+Q117RNFE - Reason no fees payment
+Q118BURS - Fee reductions or bursaries
+Q119ALanguage - Access to language workbooks
+Q119AMathematics - Access to Mathematics workbooks
+Q119BTEXTBOOKS - Access to textbooks
+Q119cBOOK - Lack of books
+Q119cPOOR - Poor quality of teaching
+Q119cLACK - Lack of teachers
+Q119cBADC - Facilities in bad condition
+Q119cFEES - Fees too high
+Q119cCLAS - Classes too large/too many learners
+Q119cTABS - Teachers are often absent from school
+Q119cPMAN - Teachers were involved in a strike action
+Q119cOTHR - Other Problems
+Q120GRDE - Current Grade
+Q121SAME - Repeat Grade
+Q122aFOOD - School feeding scheme
+Q122bEFOOD - Provision of food
+Q123aVIOL - Violence corporal punishment or verbal abuse
+Q123bVIOL1 - Corporal punishment by teacher
+Q123bVIOL2 - Physical violence by teacher
+Q123bVIOL3 - Verbal abuse by teacher
+Q123bVIOL4 - Verbal abuse by learners
+Q123bVIOL5 - Physical abuse
+Q123bVIOL6 - Other violence
+Q124aABS - Absent from school
+Q124bDAY - Number of days absent
+Q124cRSN - Main reason for absence
+Q21MEDI - Medical aid scheme
+Q22GENHEALTH - Health status
+Q23FLU - Flu or acute respiratory tract infection
+Q23DIA - Diarrhea
+Q23SCblood - TB or severe cough with blood
+Q23SUB - Abuse of alcohol or drugs
+Q23DEP - Depression or mental illness
+Q23SEX - Sexually transmitted disease
+Q23PNEU - Pneumonia
+Q23BRON - Bronchitis
+Q23EPIL - Epilepsy
+Q24aCON - Consult a health worker
+Q24bYNT - Why not consult
+Q25aMVHoccupant - Motor vehicle injury – occupant
+Q25aMVHpedestrian - Motor vehicle injury – pedestrian
+Q25aBCL - Bicycle related
+Q25aGUN - Gun shots wounds
+Q25aSTR - Severe trauma due to violence, assault, beating
+Q25aCRIME - Crime- related injury
+Q25aFIRE - Fire or burn
+Q25aACCP - Accidental poisoning
+Q25aINTP - Intentional poisoning
+Q25aSPORTS - Sports related
+Q25aDisability - Epileptic seizure
+Q25aOTH - Other injury
+Q25bmiss - Days missed school or work
+Q26ASM - Asthma
+Q26DBT - Diabetes
+Q26CAN - Cancer
+Q26HIV - HIV and AIDS
+Q26HBP - Hypertension/high blood pressure
+Q26RTH - Arthritis
+Q26STRK - Stroke
+Q26HEART - Heart attack/Myocardial infarction
+Q26TB - Tuberculosis
+Q26mental - Mental Illness
+Q26epil - Epilepsy
+Q26men - Meningitis and Sinusitis
+Q26pneu - Pneumonia
+Q26bron - Bronchitis
+Q26chole - High Cholesterol
+Q26oster - Osteoporosis
+Q26OTH - Other Chronic Illness
+Q27aPRE - Pregnancy
+Q27bSTA - Current status of pregnancy
+Q28APROV - Province of birth
+Q28BBORN - Place of birth
+Q28CDOCTOR - Doctor
+Q28CNURSE - Sister/Nurse
+Q28CTRADBIRTH - Traditional birth attendant
+Q28CFAMILY - Family or friends
+Q28CFATHER - Father of the child
+Q28DBIRTHCERT - Birth certificate
+Q28ERECIEVDATE - Receive date of the birth certificate
+Q28FAPPLIED - Applied for Birth certificate
+Q29SEE - Seeing
+Q29HEA - Hearing
+Q29WAL - Walking
+Q29REM - Remembering
+Q29SEL - Self-care
+Q29COM - Communication
+Q210EYE - Eye glasses/spectacles/contact lenses
+Q210HAID - Hearing aid
+Q210WST - Walking stick/walking frame
+Q210WCH - Wheelchair
+Q210OTH - Other assistive devices
+Q31asg - Social Grants
+Q31bOAG - Old age pension
+Q31bDIS - Disability grant
+Q31bCSG - Child support grant
+Q31bCAR - Care dependency grant
+Q31bFOS - Foster child grant
+Q31bWVT - War veterans grant
+Q31bGRN - Grant in aid
+Q31bSOC - Social relief
+Q32DISG - Disability grant-permanent or temporary
+Q33CELL - Own a mobile telephone
+Q34BANK - Bank Account
+Q34INVESTACC - Investment account
+Q34PENSION - Pension
+Q34INFORMALSAV - Informal savings
+Q34LAND - Land
+Q34THISDWELLING - This dwelling
+Q34RESIDPROPERTY - Residential property
+Q41aWGE - Working for a wage, commission or salary
+Q41bBUS - Business Activities
+Q41cVOL - Work without remuneration
+Q41dRET - Return to work or business
+Q42aSTO - Total salary/pay
+Q42bSP - Salary period
+Q43SALC - Income categories
+Q44aTM - Means of transport
+Q44bMIN - Time taken to place of employment
+Q45SEC - Sector of organisation/business or branch
+Q46aLOOK - Looking for any kind of job or trying to start a business
+Q46bSTART - Liked to work
+Q46cRNSW - Reason for not trying to find work or starting a business
+Q46dAccJob - Start work or a business
+Q47JCR - Participated in Government or municipal job creation programme
+Q48RESP - Person number of the respondent
+undisab - UN Disability
+disab - Disability
+Sevdisab - Severe disability
+Literacy3b - Literacy
+stratum - Stratum
+geotype - Geography Type
+Q42msal - Monthly Salary
+Metro_code - Metro Code
+Metro - Metro
+employ_Status1 - Employment Status 1
+employ_Status2 - Employment Status 2
+Rotation - Rotation
+person_wgt - Weight
+
+
+
+
+
+
+
+
+UqNr - Unique Household Identifier
+PersonNR - Person (respondent) number within Household
+PSU - Primary sampling unit
+Prov - Province
+B_Nights - Stayed Nights
+Gender - Gender
+Age - Age
+Age_grp1 - Age group
+Race - Population group
+F_Linsidehh - Language In
+F_Loutsidehh - Language Out
+Q11RELSH - Relationship to the household head
+Q12aMARST - Marital status
+Q12BSPOU - Spouse/partner
+Q12CPSNN - Spouse number
+Q13aFATH - Father alive
+Q13bFalive - Father alive 5 years ago
+Q13cFPAR - Father part of the household
+Q13dFPSN - Father person number
+Q14aMOTH - Mother still alive
+Q14bMalive - Mother alive 5 years ago
+Q14cMPAR - Mother part of household
+Q14dMPSN - Mother person number
+Q15HIEDU - Highest education level
+Q16ATECHILD - Type of ECD facility children attend
+Q16BNOTATTE - Place where children spent most of their time during the day
+Q16CMAINREASN - Main reason for not attending the ECD facility
+Q17FEES - Amount paid to attend the ECD facility
+Q18READ - Read books
+Q18STORIES - Tell stories books
+Q18SING - Sing
+Q18DRAW - Draw
+Q18TALK - Talk
+Q18COUNT - Count different things
+Q18NAME - Name different things
+Q18PLAY - Play with toys
+Q19WRTN - Writing name
+Q19READ - Reading
+Q19FORM - Filling in a form
+Q19WRTL - Writing a letter
+Q19CAL - Calculating
+Q19RDSN - Reading road signs
+Q110ATTE - Currently attending educational institution
+Q111RSNN - Reason for non-attendance
+Q112EDUI - Educational institution
+Q113PPRIV - Public or private institution
+Q114DLRN - Distance learning classes
+Q115aMOD - Means of transport
+Q115bTIM - Time taken to travel to school
+Q115cNR - Nearest institution
+Q115dNNI - Reason for not attending the nearest institution
+Q116FEET - Total amount of tuition fees paid
+Q117RNFE - Reason for no fees payment
+Q118BURS - Fee reductions or bursaries
+Q119ALanguage - Access to language workbooks
+Q119AMathematics - Access to Mathematics workbooks
+Q119BTEXTBOOKS - Access to textbooks
+Q119cBOOK - Lack of books
+Q119cPOOR - Poor quality of teaching
+Q119cLACK - Lack of teachers
+Q119cBADC - Facilities in bad condition
+Q119cFEES - Fees too high
+Q119cCLAS - Classes too large/too many learners
+Q119cTABS - Teachers are often absent from school
+Q119cPMAN - Teachers were involved in a strike action
+Q119cOTHR - Other Problems
+Q120GRDE - Current Grade
+Q121SAME - Repeat Grade
+Q122aFOOD - School feeding scheme
+Q122bEFOOD - Provision of food
+Q123aVIOL - Violence corporal punishment or verbal abuse
+Q123bVIOL1 - Corporal punishment by teacher
+Q123bVIOL2 - Physical violence by teacher
+Q123bVIOL3 - Verbal abuse by teacher
+Q123bVIOL4 - Verbal abuse by learners
+Q123bVIOL5 - Physical abuse
+Q123bVIOL6 - Other violence
+Q124aABS - Absent from school
+Q124bDAY - Number of days absent
+Q124cRSN - Main reason for absence
+Q21MEDI - Medical aid scheme
+Q22GENHEALTH - Health status
+Q23FLU - Flu or acute respiratory tract infection
+Q23DIA - Diarrhea
+Q23SCblood - TB or severe cough with blood
+Q23SUB - Abuse of alcohol or drugs
+Q23DEP - Depression or mental illness
+Q23SEX - Sexually transmitted disease
+Q23PNEU - Pneumonia
+Q23BRON - Bronchitis
+Q23EPIL - Epilepsy
+Q24aCON - Consult a health worker
+Q24bYNT - Reason for not consulting a health worker
+Q25aMVHoccupant - Motor vehicle injury – occupant
+Q25aMVHpedestrian - Motor vehicle injury – pedestrian
+Q25aBCL - Bicycle related
+Q25aGUN - Gun shots wounds
+Q25aSTR - Severe trauma due to violence, assault, beating
+Q25aCRIME - Crime- related injury
+Q25aFIRE - Fire or burn
+Q25aACCP - Accidental poisoning
+Q25aINTP - Intentional poisoning
+Q25aSPORTS - Sports related
+Q25aDisability - Epileptic seizure
+Q25aOTH - Other injury
+Q25bmiss - Days missed school or work
+Q26ASM - Asthma
+Q26DBT - Diabetes
+Q26CAN - Cancer
+Q26HIV - HIV and AIDS
+Q26HBP - Hypertension/high blood pressure
+Q26RTH - Arthritis
+Q26STRK - Stroke
+Q26HEART - Heart attack/Myocardial infarction
+Q26TB - Tuberculosis
+Q26mental - Mental Illness
+Q26epil - Epilepsy
+Q26men - Meningitis and Sinusitis
+Q26pneu - Pneumonia
+Q26bron - Bronchitis
+Q26chole - High Cholesterol
+Q26oster - Osteoporosis
+Q26OTH - Other Chronic Illness
+Q27aPRE - Pregnancy
+Q27bSTA - Current status of pregnancy
+Q28SEE - Seeing
+Q28HEA - Hearing
+Q28WAL - Walking
+Q28REM - Remembering
+Q28SEL - Self-care
+Q28COM - Communication
+Q29EYE - Eye glasses/spectacles/contact lenses
+Q29HAID - Hearing aid
+Q29WST - Walking stick/walking frame
+Q29WCH - Wheelchair
+Q29OTH - Other assistive devices
+Q31asg - Social Grants
+Q31bOAG - Old age pension
+Q31bDIS - Disability grant
+Q31bCSG - Child support grant
+Q31bCAR - Care dependency grant
+Q31bFOS - Foster child grant
+Q31bWVT - War veterans grant
+Q31bGRN - Grant in aid
+Q31bSOC - Social relief
+Q32DISG - Disability grant-permanent or temporary
+Q33CELL - Own a mobile telephone
+Q34BANK - Bank Account
+Q34INVESTACC - Investment account
+Q34PENSION - Pension
+Q34INFORMALSAV - Informal savings
+Q34LAND - Land
+Q34THISDWELLING - This dwelling
+Q34RESIDPROPERTY - Residential property
+Q41aWGE - Working for a wage, commission or salary
+Q41bBUS - Business Activities
+Q41cVOL - Work without remuneration
+Q41dRET - Return to work or business
+Q42aSTO - Total salary/pay
+Q42bSP - Salary period
+Q43SALC - Income categories
+Q44aTM - Means of transport to go to work
+Q44bMIN - Time taken to place of employment
+Q45SEC - Sector of organisation/business or branch
+Q46aLOOK - Looking for any kind of job or trying to start a business
+Q46bSTART - Liked to work
+Q46cRNSW - Reason for not trying to find work or starting a business
+Q46dAccJob - Start work or a business
+Q47JCR - Participated in Government or municipal job creation programme
+Q48RESP - Person number of the respondent
+undisab - UN Disability
+disab - Disability
+Sevdisab - Severe disability
+Literacy3b - Literacy
+stratum - Stratum
+geotype - Geography Type
+Q42msal - Monthly Salary
+Metro_code - Metro Code
+Metro - Metro
+employ_Status1 - Employment Status 1
+employ_Status2 - Employment Status 2
+Rotation - Rotation
+person_wgt - Weight
+
+
+
+
+18 -------------
+
+
+
+UqNr - Unique Household Identifier
+PersonNR - Person (respondent) number within Household
+PSU - Primary sampling unit
+Prov - Province
+B_Nights - Stayed Nights
+Gender - Gender
+Age - Age
+Age_grp1 - Age group
+Race - Population group
+F_Linsidehh - Language In
+F_Loutsidehh - Language Out
+Q11RELSH - Relationship to the household head
+Q12aMARST - Marital status
+Q12BSPOU - Spouse/partner
+Q12CPSNN - Spouse number
+Q13aFATH - Father alive
+Q13bFalive - Father alive 5 years ago
+Q13cFPAR - Father part of the household
+Q13dFPSN - Father person number
+Q14aMOTH - Mother still alive
+Q14bMalive - Mother alive 5 years ago
+Q14cMPAR - Mother part of household
+Q14dMPSN - Mother person number
+Q15HIEDU - Highest education level
+Q16ATECHILD - Type of ECD facility children attend
+Q16BNOTATTE - Place where children spent most of their time during the day
+Q16CMAINREASN - Main reason for not attending the ECD facility
+Q17FEES - Amount paid to attend the ECD facility
+Q18READ - Read books
+Q18STORIES - Tell stories
+Q18SING - Sing
+Q18DRAW - Draw
+Q18TALK - Talk
+Q18COUNT - Count different things
+Q18NAME - Name different things
+Q18PLAY - Play with toys
+Q19WRTN - Writing name
+Q19READ - Reading
+Q19FORM - Filling in a form
+Q19WRTL - Writing a letter
+Q19CAL - Calculating
+Q19RDSN - Reading road signs
+Q110ATTE - Currently attending educational institution
+Q111RSNN - Reason for non-attendance
+Q112EDUI - Educational institution
+Q113PPRIV - Public or private institution
+Q114DLRN - Distance learning classes
+Q115aMOD - Means of transport
+Q115bTIM - Time taken to travel to school
+Q115cNR - Nearest institution
+Q115dNNI - Reason for not attending the nearest institution
+Q116FEET - Total amount of tuition fees paid
+Q117RNFE - Reason for no fees payment
+Q118BURS - Fee reductions or bursaries
+Q119ALanguage - Access to language workbooks
+Q119AMathematics - Access to Mathematics workbooks
+Q119BTEXTBOOKS - Access to textbooks
+Q119cBOOK - Lack of books
+Q119cPOOR - Poor quality of teaching
+Q119cLACK - Lack of teachers
+Q119cBADC - Facilities in bad condition
+Q119cFEES - Fees too high
+Q119cCLAS - Classes too large/too many learners
+Q119cTABS - Teachers are often absent from school
+Q119cPMAN - Teachers were involved in a strike action
+Q119cOTHR - Other Problems
+Q120GRDE - Current Grade
+Q121SAME - Repeat Grade
+Q122aFOOD - School feeding scheme
+Q122bEFOOD - Provision of food
+Q123aVIOL - Violence corporal punishment or verbal abuse
+Q123bVIOL1 - Corporal punishment by teacher
+Q123bVIOL2 - Physical violence by teacher
+Q123bVIOL3 - Verbal abuse by teacher
+Q123bVIOL4 - Verbal abuse by learners
+Q123bVIOL5 - Physical abuse
+Q123bVIOL6 - Other violence
+Q124aABS - Absent from school
+Q124bDAY - Number of days absent
+Q124cRSN - Main reason for absence
+Q21MEDI - Medical aid scheme
+Q22GENHEALTH - Health status
+Q23FLU - Flu or acute respiratory tract infection
+Q23DIA - Diarrhea
+Q23SCblood - TB or severe cough with blood
+Q23SUB - Abuse of alcohol or drugs
+Q23DEP - Depression or mental illness
+Q23SEX - Sexually transmitted disease
+Q23PNEU - Pneumonia
+Q23BRON - Bronchitis
+Q23EPIL - Epileptic seizure
+Q23MAL - Malaria
+Q24aCON - Consult a health worker
+Q24bYNT - Reason for not consulting a health worker
+Q25aMVHoccupant - Motor vehicle injury – occupant
+Q25aMVHpedestrian - Motor vehicle injury – pedestrian
+Q25aBCL - Bicycle related
+Q25aGUN - Gun shots wounds
+Q25aSTR - Severe trauma due to violence, assault, beating
+Q25aCRIME - Crime- related injury
+Q25aFIRE - Fire or burn
+Q25aACCP - Accidental poisoning
+Q25aINTP - Intentional poisoning
+Q25aSPORTS - Sports related
+Q25aDisability - Epileptic seizure
+Q25aOTH - Other injury
+Q25bmiss - Days missed school or work
+Q26ASM - Asthma
+Q26DBT - Diabetes
+Q26CAN - Cancer
+Q26HIV - HIV and AIDS
+Q26HBP - Hypertension/high blood pressure
+Q26RTH - Arthritis
+Q26STRK - Stroke
+Q26HEART - Heart attack/Myocardial infarction
+Q26TB - Tuberculosis
+Q26mental - Mental Illness
+Q26epil - Epilepsy
+Q26MAL - Malaria
+Q26men - Meningitis and Sinusitis
+Q26pneu - Pneumonia
+Q26bron - Bronchitis
+Q26chole - High Cholesterol
+Q26oster - Osteoporosis
+Q26OTH - Other Chronic Illness
+Q27aPRE - Pregnancy
+Q27bSTA - Current status of pregnancy
+Q28SEE - Seeing
+Q28HEA - Hearing
+Q28WAL - Walking
+Q28REM - Remembering
+Q28SEL - Self-care
+Q28COM - Communication
+Q29EYE - Eye glasses/spectacles/contact lenses
+Q29HAID - Hearing aid
+Q29WST - Walking stick/walking frame
+Q29WCH - Wheelchair
+Q29OTH - Other assistive devices
+Q31asg - Social Grants
+Q31bOAG - Old age pension
+Q31bDIS - Disability grant
+Q31bCSG - Child support grant
+Q31bCAR - Care dependency grant
+Q31bFOS - Foster care grant
+Q31bWVT - War veterans grant
+Q31bGRN - Grant in aid
+Q31bSOC - Social relief of distress
+Q32DISG - Disability grant-permanent or temporary
+Q33CELL - Own a mobile telephone
+Q34BANK - Bank Account
+Q34INVESTACC - Investment account
+Q34PENSION - Pension
+Q34INFORMALSAV - Informal savings
+Q34LAND - Land
+Q34THISDWELLING - This dwelling
+Q34RESIDPROPERTY - Residential property
+Q41aWGE - Working for a wage, commission or salary
+Q41bBUS - Business Activities
+Q41cVOL - Work without remuneration
+Q41dRET - Return to work or business
+Q42aSTO - Total salary/pay
+Q42bSP - Salary period
+Q43SALC - Income categories
+Q44aTM - Means of transport to go to work
+Q44bMIN - Time taken to place of employment
+Q45SEC - Sector of organisation/business or branch
+Q46aLOOK - Looking for any kind of job or trying to start a business
+Q46bSTART - Liked to work
+Q46cRNSW - Reason for not trying to find work or starting a business
+Q46dAccJob - Start work or a business
+Q47JCR - Participated in Government or municipal job creation programme
+Q48RESP - Person number of the respondent
+undisab - UN Disability
+disab - Disability
+Sevdisab - Severe disability
+Literacy3b - Literacy
+stratum - Stratum
+geotype - Geography Type
+Q42msal - Monthly Salary
+Metro_code - Metro Code
+Metro - Metro
+employ_Status1 - Employment Status 1
+employ_Status2 - Employment Status 2
+Rotation - Rotation
+person_wgt - Weight
+
+
+
+
+__________________________ 19
+
+
+
+
+
+uqnr - Unique number
+personnr - Person number
+psu - Primary sampling unit Primary sampling unit Primary sampling unit
+prov - Province
+Four_by_Four - Stayed Nights
+Sex - Gender
+age - Date of birth (DOB) / age
+age_grp1 - Age group
+Population - Population group
+HHC_RELATIONSHIP - Relationship to the household head
+HHC_MARITAL - Marital status
+SPOUSE - Spouse/partner
+SPOUSE_NAME - Spouse number
+HHC_FATH_ALIVE - Father alive
+HHC_FATH_PARTHH - Father part of the household
+HHC_FATH_NAME - Father person number
+HHC_MOTH_ALIVE - Mother still alive
+HHC_MOTH_PARTHH - Mother part of the household
+HHC_MOTH_NAME - Mother person number
+Education - Highest education level
+ECD_CHLDATT - Type of ECD facility
+ECD_NOTATT - Place where children spent most of their time during the day
+ECD_NOTATT_RSN - Main reason for not attending the ECD facility
+ECD_FEES - Amount paid to attend the ECD facility
+EDU_WRTN - Writing name
+EDU_READ - Reading
+EDU_FORM - Filling in a form
+EDU_WRTL - Writing a letter
+EDU_CAL - Calculating
+EDU_RDSN - Reading road signs
+EDU_ATTEND - Currently attending educational institution
+EDU_RSNN - Reason for non-attendance
+EDU_EDUI - Educational institution
+EDU_PPRIV - Public or private institution
+EDU_CORR - Distance learning classes
+EDU_MODE_TR - Means of transport
+EDU_TIME - Time taken to travel to school
+EDU_NEAREST - Nearest institution
+EDU_NOTNEAR - Reason for not attending the nearest institution
+EDU_BURS - Fee reductions or bursaries
+EDU_TOTFEES - Total amount of tuition fees paid
+EDU_NOFEES - Reason no fees payment
+EDU_GRDE - Current grade
+EDU_PROB_BOOK - Lack of books/ learning materials
+EDU_PROB_POOR - Poor quality of teaching
+EDU_PROB_LACK - Lack of teachers
+EDU_PROB_BADC - Facilities in bad condition
+EDU_PROB_FEES - Fees too high
+EDU_PROB_CLAS - Classes too large/too many learners
+EDU_PROB_TABS - Teachers are often absent from school
+EDU_PROB_TSTR - Teachers were involved in a strike
+EDU_FOOD - School feeding scheme
+EDU_EATFOOD - Provision of food
+EDU_VLNC - Violence, corporal punishment or verbal abuse
+EDU_VLNC_CORP - Corporal punishment by teacher
+EDU_VLNC_PHYT - Physical violence by teacher
+EDU_VLNC_VERT - Verbal abuse by teacher
+EDU_VLNC_VERL - Verbal abuse by learners
+EDU_VLNC_PHYL - Physical abuse
+EDU_ABS - Absent from school
+EDU_ABS_DAYS - Number of days absent
+EDU_ABS_RSN - Main reason absent
+HLT_MEDI - Medical aid scheme
+HLT_GENHEALTH - Health status
+HLT_ILLNESS_FLU - Flu or acute respiratory tract infection
+HLT_ILLNESS_DIA - Diarrhoea
+HLT_ILLNESS_SCBLOOD - Severe cough with blood
+HLT_ILLNESS_SUB - Abuse of alcohol or drugs
+HLT_ILLNESS_DEP - Depression
+HLT_ILLNESS_STD - Sexually transmitted disease
+HLT_ILLNESS_PNEU - Pneumonia
+HLT_ILLNESS_BRON - Bronchitis
+HLT_ILLNESS_EPIL - Epileptic seizure
+HLT_ILLNESS_MAL - Malaria_illness
+HLT_CONSULT - Consult a health worker as a result of illness
+HLT_CONSULT_YNOT - Reason for not consulting a health worker
+HLT_INJPOIS - Injured or poisoned
+HLT_INJPOIS_MVOC - Motor vehicle injury – occupant
+HLT_INJPOIS_MVPE - Motor vehicle injury – pedestrian
+HLT_INJPOIS_BICY - Bicycle related
+HLT_INJPOIS_GUN - Gun shorts wounds
+HLT_INJPOIS_STVIOL - Severe trauma due to violence, assault, beating
+HLT_INJPOIS_CRIME - Crime related injury
+HLT_INJPOIS_FIRE - Fire or burn
+HLT_INJPOIS_ACCPOIS - Accidental poisoning
+HLT_INJPOIS_INTPOIS - Intentional poisoning
+HLT_INJPOIS_SPORTS - Sports related
+HLT_INJPOIS_MTCY - Epileptic seizure
+HLT_INJPOIS_OTHER - Other injury
+HLT_days_MISS - Days missed at school or work
+HLT_CHRONIC_ASM - Asthma
+HLT_CHRONIC_DBT - Diabetes
+HLT_CHRONIC_CAN - Cancer
+HLT_CHRONIC_HIV - HIV and AIDS
+HLT_CHRONIC_HBP - Hypertension/high blood pressure
+HLT_CHRONIC_ARTH - Arthritis
+HLT_CHRONIC_STRK - Stroke
+HLT_CHRONIC_HEART - Heart attack/Myocardial infarction
+HLT_CHRONIC_TB - Tuberculosis
+HLT_CHRONIC_MENTAL - Mental Illness
+HLT_CHRONIC_EPIL - Epileptic seizure
+HLT_CHRONIC_MEN - Meningitis and Sinusitis
+HLT_CHRONIC_PNEU - Pneumonia
+HLT_CHRONIC_BRON - Bronchitis
+HLT_CHRONIC_OSTER - Osteoporosis
+HLT_CHRONIC_MAL - Malaria_Chronic
+HLT_PREG - Pregnancy
+HLT_CHRONIC_CHOLE - High Cholesterol
+HLT_PREGSTAT - Current status of pregnancy
+DSB_SEE - Seeing
+DSB_HEA - Hearing
+DSB_WAL - Walking
+DSB_REM - Remembering
+DSB_SEL - Self-care
+DSB_COM - Communication
+DSB_ASTD_EYEGLASS - Eye glasses/spectacles/contact lenses
+DSB_ASTD_HEARAID - Hearing aid
+DSB_ASTD_WALKSTICK - Walking stick/walking frame
+DSB_ASTD_WHECHAIR - Wheelchair
+DSB_ASTD_OTHER - Other assistive devices
+SOC_GRANT - Social Grants
+SOC_GRANT_TYPE - Type of grant
+SOC_DISB_PERM - Disability grant
+ITP_CELL - Own a mobile telephone
+LAB_WGE - Working for a wage, commission or salary
+LAB_BUS - Business Activities
+LAB_VOL - Work without remuneration
+LAB_RET - Return to work or business
+LAB_AMOUNT - Willing to disclose their earning
+LAB_STO - Total salary/pay
+LAB_SALPER - Salary period
+LAB_SALC - Income categories
+LAB_TRANSP - Means of transport
+LAB_MINS - Time taken to place of employment
+LAB_SECTOR - Sector of organisation/business or branch
+LAB_LOOK - Looking for any kind of job or trying business
+LAB_GOVPROG - Participated in government or municipal job creation programme
+LAB_RES_NAME - Reason for not trying to find work or starting a business
+undisab - UN Disability
+disab - Disability
+sevdisab - Severe disability
+literacy3b - Literacy
+Stratum - Stratum
+geotype - Geography Type
+LAB_SALARY - Salary
+metro_code - Metro_C
+metro - Metro
+Rotation - Rotation
+person_wgt - Person Weight
+
+
+
+
+-------------20
+
+
+
+
+
+uqnr - Unique number
+personnr - Person number
+psu - Primary sampling unit
+prov - Province
+Four_by_Four - Stayed Nights
+Sex - Gender
+age - Date of birth (DOB) / age
+age_grp1 - Age group
+Population - Population group
+hhc_relationship - Relationship to the household head
+hhc_marital - Marital status
+spouse - Spouse/partner
+spouse_name - Spouse number
+hhc_fath_alive - Father alive
+hhc_fath_parthh - Father part of the household
+hhc_fath_name - Father person number
+hhc_moth_alive - Mother still alive
+hhc_moth_parthh - Mother part of the household
+hhc_moth_name - Mother person number
+education - Highest education level
+ecd_chldatt - Type of ECD facility
+ecd_notatt - Place where children spent most of their time during the day
+ecd_notatt_rsn - Main reason for not attending the ECD facility
+ecd_fees - Amount paid to attend the ECD facility
+edu_attend - Currently attending educational institution
+edu_edui - Educational institution
+edu_ppriv - Public or private institution
+edu_corr - Distance learning classes
+edu_homesch - Remote schooling option
+edu_homesch_part - Home schooling participation
+edu_homesch_smrtphone - Smart phone
+edu_homesch_computer - Computer/ Desktop/Laptop
+edu_homesch_tablet - Tablet computer (i.e. iPad)
+edu_burs - Fee reductions or bursaries
+edu_totfees - Total amount of tuition fees paid
+edu_nofees - Reason no fees payment
+edu_grde - Current grade
+edu_food - School feeding scheme
+edu_eatfood - Provision of food
+hlt_medi - Medical aid scheme
+hlt_covid_postest - Covid-19 post test
+hlt_chronic_asm - Asthma
+hlt_chronic_dbt - Diabetes
+hlt_chronic_hbp - Hypertension/high blood pressure
+hlt_chronic_strk - Stroke
+hlt_chronic_tb - Tuberculosis
+dsb_see - Seeing
+dsb_hea - Hearing
+dsb_wal - Walking
+dsb_rem - Remembering
+dsb_sel - Self-care
+dsb_com - Communication
+soc_grant - Social Grants
+soc_grant_oag - Old age pension
+soc_grant_dis - Disability grant
+soc_grant_csg - Child support grant
+soc_grant_car - Care dependency grant
+soc_grant_fos - Foster care grant
+soc_grant_wvt - War veterans grant
+soc_grant_grn - Grant-in-aid
+soc_grant_srd - Special COVID-19 social relief of distress grants
+lab_wge - Working for a wage, commission or salary
+lab_bus - Business Activities
+lab_vol - Work without remuneration
+lab_ret - Return to work or business
+lab_amount - Willing to disclose their earning
+lab_sto - Total salary/pay
+lab_salper - Salary period
+lab_salc - Income categories
+lab_look - Looking for any kind of job or trying business
+lab_start - Liked to work
+lab_rnsw - " Reason for not trying to find work or starting a business "
+undisab - UN Disability
+disabs - Disability
+sevdisab - Severe disability
+stratum - Stratum
+geotype - Geography Type
+lab_salary - Salary
+metro - Metro
+rotation - Rotation
+person_wgt - Person Weight
+uqnr - Unique number
+personnr - Person number
+psu - Primary sampling unit
+prov - Province
+Four_by_Four - Stayed Nights
+Sex - Gender
+age - Date of birth (DOB) / age
+age_grp1 - Age group
+Population - Population group
+hhc_relationship - Relationship to the household head
+hhc_marital - Marital status
+spouse - Spouse/partner
+spouse_name - Spouse number
+hhc_fath_alive - Father alive
+hhc_fath_parthh - Father part of the household
+hhc_fath_name - Father person number
+hhc_moth_alive - Mother still alive
+hhc_moth_parthh - Mother part of the household
+hhc_moth_name - Mother person number
+education - Highest education level
+ecd_chldatt - Type of ECD facility
+ecd_notatt - Place where children spent most of their time during the day
+ecd_notatt_rsn - Main reason for not attending the ECD facility
+ecd_fees - Amount paid to attend the ECD facility
+edu_attend - Currently attending educational institution
+edu_rsnn - Main reason for not attending an educational institution
+edu_edui - Educational institution
+edu_ppriv - Public or private institution
+edu_corr - Distance learning classes
+edu_homesch - Remote schooling option
+edu_attfreq - School rotation
+edu_homesch_part - Home schooling participation
+edu_homesch_smrtphone - Smart phone
+edu_homesch_computer - Computer/ Desktop/Laptop
+edu_homesch_tablet - Tablet computer (i.e. iPad)
+edu_homesch_printed - Printed materials
+edu_burs - Fee reductions or bursaries
+edu_totfees - Total amount of tuition fees paid
+edu_nofees - Reason no fees payment
+edu_grde - Current grade
+edu_same - Repeating grade
+edu_food - School feeding scheme
+edu_eatfood - Provision of food
+hlt_medi - Medical aid scheme
+hlt_covid_postest - Covid-19 post test
+hlt_chronic_asm - Asthma
+hlt_chronic_dbt - Diabetes
+hlt_chronic_hbp - Hypertension/high blood pressure
+hlt_chronic_strk - Stroke
+hlt_preg - Pregnancy
+hlt_chronic_tb - Tuberculosis
+dsb_see - Seeing
+dsb_hea - Hearing
+dsb_wal - Walking
+dsb_rem - Remembering
+dsb_sel - Self-care
+dsb_com - Communication
+soc_grant - Social Grants
+soc_grant_oag - Old age grant
+soc_grant_dis - Disability grant
+soc_grant_csg - Child support grant
+soc_grant_car - Care dependency grant
+soc_grant_fos - Foster care grant
+soc_grant_wvt - War veterans grant
+soc_grant_grn - Grant-in-aid
+soc_grant_srd - Special COVID-19 social relief of distress grants
+lab_wge - Working for a wage, commission or salary
+lab_bus - Business Activities
+lab_vol - Work without remuneration
+lab_ret - Return to work or business
+lab_amount - Willing to disclose their earning
+lab_sto - Total salary/pay
+lab_salper - Salary period
+lab_salc - Income categories
+lab_look - Looking for any kind of job or trying business
+lab_start - Liked to work
+lab_rnsw - " Reason for not trying to find work or starting a business "
+lab_accjob - Start work or a business
+undisab - UN Disability
+disab - Disability
+sevdisab - Severe disability
+stratum - Stratum
+geotype - Geography Type
+lab_salary - Salary
+employ_Status1 - Employment status one
+employ_Status2 - Employment status two
+metro - Metro
+metro_code - Metro code
+rotation - Rotation
+person_wgt - Person Weight
+
+
+
+------------------21
+
+
+
+
+uqnr - Unique number
+personnr - Person number
+psu - Primary sampling unit
+prov - Province
+Four_by_Four - Stayed Nights (B_Nights)
+Sex - Gender
+age - Age
+age_grp1 - Age group
+Population - Population group
+Languages - Languages
+hhc_relationship - Relationship to the household head
+hhc_marital - Marital status
+spouse - Spouse/partner
+spouse_name - Spouse number
+hhc_fath_alive - Father alive
+hhc_fath_parthh - Father part of the household
+hhc_fath_name - Father person number
+hhc_moth_alive - Mother still alive
+hhc_moth_parthh - Mother part of the household
+hhc_moth_name - Mother person number
+education - Highest education level
+ecd_chldatt - Type of ECD facility
+ecd_notatt - Place where children spent most of their time during the day
+ecd_notatt_rsn - Main reason for not attending the ECD facility
+ecd_fees - Amount paid to attend the ECD facility
+ecd_read - Read books/tell stories
+ecd_sing - Sing
+ecd_colour - Colour
+ecd_object - Objects
+ecd_count - Count
+ecd_play - Play
+edu_attend - Currently attending educational institution
+edu_rsnn - Main reason for not attending an educational institution
+edu_edui - Educational institution
+edu_ppriv - Public or private institution
+edu_corr - Distance learning classes
+edu_mode_tr - Means of transport
+edu_time - Time taken to school
+edu_burs - Fee reductions or bursaries
+edu_totfees - Total amount of tuition fees paid
+edu_nofees - Reason for no fees payment
+edu_grde - Current grade
+edu_same - Repeat Grade
+edu_food - School feeding scheme
+edu_eatfood - Provision of food
+edu_vlnc - Violence, corporal punishment or verbal abuse
+edu_vlnc_corp - Corporal punishment by teacher
+edu_vlnc_phyt - Physical violence by teacher
+edu_vlnc_vert - Verbal abuse by teacher
+edu_vlnc_verl - Verbal abuse by learners
+edu_vlnc_phyl - Physical abuse
+edu_abs - Absent from school
+edu_abs_days - Number of days absent
+edu_abs_rsn - Main reason absent
+hlt_medi - Medical aid scheme
+hlt_genhealth - Health status
+hlt_vacci - Covid-19 vaccine
+hlt_chronic_asm - Asthma
+hlt_chronic_dbt - Diabetes
+hlt_chronic_can - Cancer
+hlt_chronic_HIV - HIV and AIDS
+hlt_chronic_hbp - Hypertension/high blood pressure
+hlt_chronic_arth - Arthritis
+hlt_chronic_strk - Stroke
+hlt_chronic_tb - Tuberculosis
+hlt_chronic_broncho - Pneumonia / Bronchitis
+hlt_chronic_covid - Covid-19
+hlt_preg - Pregnancy
+dsb_see - Seeing
+dsb_hea - Hearing
+dsb_wal - Walking
+dsb_rem - Remembering
+dsb_sel - Self-care
+dsb_com - Communication
+soc_grant - Social grants
+soc_grant_oag - Old-age grant
+soc_grant_dis - Disability grant
+soc_grant_csg - Child support grant
+soc_grant_car - Care dependency grant
+soc_grant_fos - Foster care grant
+soc_grant_grn - Grant-in-aid
+soc_grant_srd - Special COVID-19 social relief of distress grant
+Itp_cell - Own a mobile telephone
+Itp_cell_sphone - Own a smart phone
+lab_wge - Working for a wage, commission or salary
+lab_bus - Business Activities
+lab_vol - Work without remuneration
+lab_ret - Return to work or business
+lab_amount - Willing to disclose their earning
+lab_sto - Total salary/pay
+lab_salper - Salary period
+lab_salc - Income categories
+lab_transp - Means of transport to go to work
+lab_mins - Time taken to place of employment
+lab_sector - Sector of organisation/business or branch
+lab_look - Looking for any kind of job or trying business
+lab_start - Liked to work
+lab_rnsw - Reason for not trying to find work or starting a business
+lab_accjob - Start work or a business
+lab_res_name - Person number of the respondent
+undisab - UN Disability
+disab - Disability
+sevdisab - Severe disability
+geotype - Geography Type
+metro_code - Metro Code
+metro - Metro
+stratum - Stratum
+lab_salary - Salary
+employ_Status1 - Employment status one
+employ_Status2 - Employment status two
+rotation - Rotation
+person_wgt - Person weight
